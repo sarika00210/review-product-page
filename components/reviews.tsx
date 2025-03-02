@@ -15,7 +15,7 @@ import { Star } from "lucide-react"
 const initialReviews = [
   {
     id: 1,
-    name: "Sarah Johnson",
+    name: "Sarika",
     avatar: "/placeholder.svg?height=40&width=40",
     date: "2 days ago",
     rating: 5,
@@ -25,7 +25,7 @@ const initialReviews = [
   },
   {
     id: 2,
-    name: "Michael Chen",
+    name: "Devaj",
     avatar: "/placeholder.svg?height=40&width=40",
     date: "1 week ago",
     rating: 4,
@@ -35,7 +35,7 @@ const initialReviews = [
   },
   {
     id: 3,
-    name: "Emily Rodriguez",
+    name: "Aditya",
     avatar: "/placeholder.svg?height=40&width=40",
     date: "2 weeks ago",
     rating: 3,
